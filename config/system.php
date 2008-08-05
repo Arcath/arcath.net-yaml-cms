@@ -76,11 +76,6 @@ foreach($config['coms'] as $com){
 	include($config['comsdir'].'/'.$com.'/'.$coms[$com]['file']);
 }
 
-//Package Managers
-if(in_array($user['id'],$config['pacmans'])){
-	$nav.='<a href="?var=pacman">Package Manager</a><br />';
-}
-
 //Template Manager (like the page manager but simpler)
 $theme=Spyc::YAMLLoad($config['themesdir'].'/'.$config['currenttheme'].'.yaml');
 //There thats the current template loaded!
