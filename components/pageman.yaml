@@ -1,0 +1,8 @@
+---
+name: Page Manager
+file: pageman.php
+reqs:
+  - editor
+  - ums
+admins:
+  - 1

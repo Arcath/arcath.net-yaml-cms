@@ -1,0 +1,9 @@
+---
+name: Register
+link: Register
+content:
+  - register
+  - index.php
+reqs:
+  - db
+  - ums

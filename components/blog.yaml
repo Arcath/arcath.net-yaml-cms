@@ -1,0 +1,9 @@
+---
+name: Blog
+file: blog.php
+reqs:
+  - db
+  - ums
+writers:
+  - 1
+  - 2

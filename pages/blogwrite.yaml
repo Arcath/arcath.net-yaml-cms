@@ -1,0 +1,8 @@
+---
+name: Blog Write
+link: NOSHOW
+content:
+  - blog
+  - write.php
+reqs:
+  - blog

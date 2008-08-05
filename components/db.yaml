@@ -1,0 +1,8 @@
+---
+name: Database Handler (MySQL)
+file: index.php
+user: yaml
+pass: cms
+host: localhost
+base: yamlcms
+pref: cms_

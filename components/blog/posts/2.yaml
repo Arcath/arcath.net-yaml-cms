@@ -1,0 +1,10 @@
+---
+title: Progress
+body: |
+  <p>I have now setup the tinyMCE editor to work with the CMS. This means that the cms can call up a nice editor by calling:</p>
+  <blockquote>
+  <p>$editor-&gt;disp(WIDTH,HEIGHT,NAME,CONENT);</p>
+  </blockquote>
+  <p>Width is the number of columns in the text editor, Height is the number if rows in the editor, name is the name of the editor (that is used in $_POST). Content is the HTML that is already in the text editor.</p>
+time: 1216668908
+author: 1

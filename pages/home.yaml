@@ -1,0 +1,8 @@
+---
+name: Home
+link: Home
+content: 
+  - blog
+  - frontpage.php
+reqs: 
+  - blog

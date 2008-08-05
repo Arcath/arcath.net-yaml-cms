@@ -1,0 +1,8 @@
+---
+name: Blog Submission
+link: NOSHOW
+content:
+  - blog
+  - sub.php
+reqs:
+  - blog

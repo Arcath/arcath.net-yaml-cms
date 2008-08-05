@@ -1,0 +1,9 @@
+---
+name: Page Editor
+link: NOSHOW
+content:
+  - pageman
+  - edit.php
+reqs:
+  - editor
+  - pageman

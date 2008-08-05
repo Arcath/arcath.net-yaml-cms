@@ -1,0 +1,4 @@
+---
+name: Making Pages
+link: Pages
+content: "<h1>Making Pages for the CMS</h1><p>There are 2 main types of page for the CMS. The first is a static content page like this one, where the content is typed into an editor. The other is a "module" that includes a PHP page.</p>"

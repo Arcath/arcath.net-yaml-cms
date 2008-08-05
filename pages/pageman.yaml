@@ -1,0 +1,9 @@
+---
+name: Page Manager
+link: NOSHOW
+content:
+  - pageman
+  - root.php
+reqs:
+  - editor
+  - pageman

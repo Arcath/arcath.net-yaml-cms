@@ -1,0 +1,9 @@
+---
+name: Logout
+link: Logout
+content:
+  - logout
+  - index.php
+reqs:
+  - db
+  - ums

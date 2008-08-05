@@ -1,0 +1,42 @@
+body{
+	font-family:Arial, sans-serif;
+	font-size:12px;
+	padding:0px;
+	margin:0px;
+	background-color:#ebe7e7;
+}
+
+.top{
+	display:block;
+	width:100%;
+	background-image:url('/themes/default/images/bannerstrip.jpg');
+	background-repeat:repeat-x;
+}
+.nav{
+	display:block;
+	position:absolute;
+	top:130px;
+	left:10%;;
+	width:150px;
+	padding-top:20px;
+	padding-left:20px;
+	height:300px;
+	background-image:url('/themes/default/images/nav.jpg');
+	background-repeat:no-repeat;
+}
+.content{
+        display:block;
+        position:absolute;
+        top:130px;
+        left:25%;
+        width:600px;
+        padding-top:20px;
+        padding-left:20px;
+        height:300px;
+        background-image:url('/themes/default/images/content.jpg');
+        background-repeat:no-repeat;
+}
+.error{
+	background-color:#FF5555;
+	border-bottom:#FF0000 solid 1px;
+}

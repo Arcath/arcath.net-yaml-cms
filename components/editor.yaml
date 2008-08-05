@@ -1,0 +1,5 @@
+---
+name: editor
+file: index.php
+reqs:
+  - tinymce

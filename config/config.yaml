@@ -1,0 +1,31 @@
+---
+name: Arcath.net
+host: dev.arcath.net
+pagedir: pages
+rootdir: /home/anet/public_html/yamlcms
+loadedpages: 
+  - home
+  - pageman
+  - blogwrite
+  - pageeditsub
+  - pageedit
+  - pages
+  - forums
+  - login
+  - register
+  - logout
+  - blogsub
+unloadedpages: 
+  - about
+currenttheme: default
+themesdir: themes
+comsdir: components
+coms: 
+  - db
+  - ums
+  - captcha
+  - blog
+  - tinymce
+  - editor
+  - pageman
+cookie: anetcook

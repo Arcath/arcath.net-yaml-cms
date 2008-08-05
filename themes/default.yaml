@@ -1,0 +1,5 @@
+---
+name: Default Theme
+folder: default
+stylesheet: style.css
+mainfile: template.php

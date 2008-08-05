@@ -1,0 +1,8 @@
+---
+name: Page Editor Submission
+link: NOSHOW
+content:
+  - pageman
+  - editsub.php
+reqs:
+  - pageman

@@ -1,0 +1,9 @@
+---
+name: Forums
+link: Forums
+content:
+  - forums
+  - index.php
+reqs:
+  - db
+  - ums
