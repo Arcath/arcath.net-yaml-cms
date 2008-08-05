@@ -1,5 +1,4 @@
 ---
-- --
 name: Arcath.net
 host: dev.arcath.net
 pagedir: pages
@@ -30,4 +29,5 @@ coms:
   - tinymce
   - editor
   - pageman
+  - pacman
 cookie: anetcook
