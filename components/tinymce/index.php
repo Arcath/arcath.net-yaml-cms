@@ -46,6 +46,7 @@ class tinymce{
 	}
 	function disp($x,$y,$name,$edit){
 		global $editor;
+		echo($editor->head());
 		$edit=$editor->editparse($edit);
 		$out='<textarea id="'.$name.'" name="'.$name.'" rows="'.$y.'" cols="'.$x.'">'.$edit.'</textarea>';
 		return $out;

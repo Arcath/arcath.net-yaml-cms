@@ -17,6 +17,6 @@ function init(){
 }
 if(init()){
 	$editor=new $coms['editor']['reqs'][0];
-	echo($editor->head());
+//	echo($editor->head());
 }
 ?>

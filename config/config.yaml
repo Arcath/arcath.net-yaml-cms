@@ -16,6 +16,8 @@ loadedpages:
   - logout
   - blogsub
   - pacman
+  - pacedit
+  - pacsub
 unloadedpages: 
   - about
 currenttheme: default

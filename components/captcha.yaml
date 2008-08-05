@@ -1,5 +1,5 @@
 ---
 name: CAPTCHA IMAGE GEN
 file: captcha.php
-reqs:
-  - db
+reqs: 
+  - ums
