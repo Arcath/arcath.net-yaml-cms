@@ -77,7 +77,7 @@ foreach($config['coms'] as $com){
 }
 
 //Package Managers
-if(in_array($user['id'],$config['pacmans']){
+if(in_array($user['id'],$config['pacmans'])){
 	$nav.='<a href="?var=pacman">Package Manager</a><br />';
 }
 
