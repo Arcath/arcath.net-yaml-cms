@@ -1,0 +1,7 @@
+---
+name: Package Manager
+file: pacman.php
+reqs:
+  - ums
+admins:
+  - 1

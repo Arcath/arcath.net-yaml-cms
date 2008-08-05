@@ -15,9 +15,9 @@ loadedpages:
   - register
   - logout
   - blogsub
+  - pacman
 unloadedpages: 
   - about
-  - pacman
 currenttheme: default
 themesdir: themes
 comsdir: components

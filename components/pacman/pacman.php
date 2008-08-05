@@ -15,7 +15,7 @@ class pacman{
 			$out=false;
 		}
 		if(in_array($user['id'],$coms['pacman']['admins'])){
-			$nav.='<a href="?var=pageman">Package Manager</a><br />';
+			$nav.='<a href="?var=pacman">Package Manager</a><br />';
 		}
 		return $out;
 	}

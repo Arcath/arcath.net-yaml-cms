@@ -1,0 +1,8 @@
+---
+name: Package Manager
+link: NOSHOW
+content:
+  - pacman
+  - root.php
+reqs:
+  - pacman
