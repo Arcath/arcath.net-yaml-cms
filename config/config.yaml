@@ -29,4 +29,5 @@ coms:
   - editor
   - pageman
 cookie: anetcook
-pacmans: 1
+pacmans:
+  - 1
